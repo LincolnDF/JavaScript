@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    height: 100%;
+    margin-top: 250px;
+    text-align: center;
+    font: normal 18pt Arial;
+    background-color: rgb(36, 0, 70);
+}
+body h1 {
+    color: rgb(255, 157, 0);
+    padding-bottom: 25px;
+}
+
+input {
+    margin-bottom: 15px;
+    font: normal 18pt Arial;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+}
+
+div#res {
+    color: rgb(255, 157, 0);
+}
+#caixa {
+    margin: 50px;
+    background-color: rgba(0, 0, 0, 0.285);
+    padding: 10px;
+    border-radius: 50px;
+}
